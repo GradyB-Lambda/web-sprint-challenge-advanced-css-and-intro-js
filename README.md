@@ -23,9 +23,22 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+    Acessibility to the web is both a legal, ethical, and a best practice for all web content. I say legal because ceratin content must be viewable through alternative means of access such as screen readers. Ethical and best practices go hand in hand. The purpose of content is to be access by your audience; as such your audience will have different ways to consume said content, and in order to provide access one must anticipate how the content will be consumed, and adjust the content accordingly. 
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+    1. Usgin meaningful decriptions when usgin ALT.
+    2. Possibly coding screen reader descriptions to help people with dissabilities skip, or otherwise navigate your page with more ease.
+    3. Insure popular viewing ports are covered; such as old iphone, and new tablets.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+    A variable holds inforamtion, much like a labeled jar holds items in your pantry. You can always reach into your pantry, find your labeled jar, and access the items inside the jar. 
+
 4. What is the purpose of using functions in code?
+
+    Function serve to add value to a variable by executing a self contained set of instructions.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
