@@ -119,6 +119,10 @@ button:hover{
     color:white;
     box-shadow: 2px 2px 1px white;
 }
+
+
+
+
 /*Artists Section Styles */
 .artists-container{
     display:flex;
@@ -134,3 +138,39 @@ button:hover{
 .artist img{
     width:100%;
 }
+
+@media only screen and (max-width: 500px) {
+    body {
+      /* background-color: lightblue; */
+      margin:0;
+      padding:0;
+      width: 100%;
+    }
+
+    nav a {
+        padding: 0 10%;
+    }
+
+    
+
+    .title-container div {
+               width:100%;
+    }	
+
+
+    .artists-container{
+        display:flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width:100%;
+        margin:0 auto;
+    }
+    
+    .artist{
+        width:100%;
+        text-align:center;
+    }
+    .artist img{
+        width:75%;
+        padding-bottom: 5%;
+    }
